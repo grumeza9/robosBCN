@@ -10,6 +10,8 @@ Website showing different things...
 
 un text explicatiu a aquest [enllaç](https://campusvirtual.urv.cat/course/view.php?id=89624) 
 
+[una foto d'un lladregot](cani.jpeg)
+
 ## Dades
 
 ## Cartografia amb QGIS2WEB
