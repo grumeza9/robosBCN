@@ -4,7 +4,7 @@ Website showing different things...
 
 ## TEMA 1 Motivació
 
-** bald text jeje**
+**bald text jeje**
 
 <br>
 
