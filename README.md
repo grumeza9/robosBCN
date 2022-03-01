@@ -6,7 +6,11 @@ Website showing different things...
 
 **bald text jeje**
 
+---
+
 <br>
+
+un text explicatiu a aquest [enllaç](https://campusvirtual.urv.cat/course/view.php?id=89624) 
 
 ## Dades
 
