@@ -5,9 +5,7 @@ Website showing different things...
 ## TEMA 1 Motivació
 
 **bald text jeje**
-
 ---
-
 <br>
 
 un text explicatiu a aquest [enllaç](https://campusvirtual.urv.cat/course/view.php?id=89624) 
