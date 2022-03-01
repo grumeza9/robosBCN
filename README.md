@@ -8,6 +8,8 @@ Website showing different things...
 
 <br>
 
+---
+
 ## Dades
 
 ## Cartografia amb QGIS2WEB
